@@ -1,0 +1,16 @@
+Która z tych planet jest największa w Układzie Słonecznym?,Mars,Wenus,Jowisz,Saturn,3
+Który z tych kontynentów ma najwięcej ludności?,Afryka,Europa,Azja,Australia,3
+Jaka jest stolica Hiszpanii?,Barcelona,Madryt,Walencja,Sewilla,2
+Kto napisał powieść "Wojna i pokój"?,Leo Tolstoj,Fiodor Dostojewski,Ernest Hemingway,Franz Kafka,1
+Ile jest stopni w kącie prostym?,45,60,90,180,3
+Które z tych państw leży w Europie?,Libia,Egipt,Maroko,Słowacja,4
+Który z tych sportów nie jest rozgrywany na lodzie?,Hokej,Curling,Snowboarding,Łyżwiarstwo szybkie,3
+Kto stworzył postać Sherlocka Holmesa?,Arthur Conan Doyle,Agatha Christie,Raymond Chandler,Dashiell Hammett,1
+Które z tych zwierząt nie jest drapieżnikiem?,Lew,Zebra,Tygrys,Jaguar,2
+Który z tych filmów wygrał Oscara za najlepszy film w 2020 roku?,"Parasite","Joker","1917","Green Book",3
+Które z tych państw graniczy z Polską?,Litwa,Norwegia,Portugalia,Grecja,1
+Które z tych oceanów ma najmniejszą powierzchnię?,Spokojny,Indyjski,Atlantycki,Południowy,4
+Jaki jest najwyższy szczyt w Europie?,Mont Blanc,Elbrus,Matterhorn,Eiger,1
+Które z tych państw nie leży w Azji?,Iran,Japonia,Kuba,Wietnam,3
+Który z tych słynnych muzyków był liderem zespołu The Beatles?,Paul McCartney,John Lennon,George Harrison,Ringo Starr,2
+Które z tych państw jest największe pod względem powierzchni?,Brazylia,Chiny,Rosja,Stany Zjednoczone,3
