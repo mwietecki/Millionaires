@@ -1,4 +1,3 @@
-Late night console-app :)
 A simple console game modeled on the well-known game show "Millionaires". Questions loaded from .txt file.
 Short rules of the game:
 12 questions, the last one is for a million.
